@@ -24,13 +24,13 @@
 
 Original Image
 
-![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/image.jpg)
+![alt text](https://github.com/mukulsikka/Landmark_Detection/blob/master/image.jpg)
 
 
 
 Results after Detection
 
-![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/results/image.jpg)
+![alt text](https://github.com/mukulsikka/Landmark_Detection/blob/master/results/image.jpg)
 
 
 
